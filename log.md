@@ -7,7 +7,7 @@
 
 **Thoughts:** 
 
-**Link to work:** [This Is Why Python Data Classes Are Awesome]([http://www.example.com](https://www.youtube.com/watch?v=CvQ7e6yUtnw))
+**Materials:** [This Is Why Python Data Classes Are Awesome](http://www.example.com](https://www.youtube.com/watch?v=CvQ7e6yUtnw))
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
