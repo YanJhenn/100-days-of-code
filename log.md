@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: 2023/10/09 (Monday)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learning @dataclass
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [This Is Why Python Data Classes Are Awesome]([http://www.example.com](https://www.youtube.com/watch?v=CvQ7e6yUtnw))
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
